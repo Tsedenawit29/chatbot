@@ -1,7 +1,3 @@
-Here’s a complete and professional `README.md` for your Gemini-powered chatbot app using Chroma, LangChain, and Streamlit:
-
----
-
 # 💬 Gemini Chatbot
 
 A smart, conversational chatbot powered by **Google Gemini Pro** with **semantic memory** using **Chroma vector store** and **LangChain**. Designed with a clean **Streamlit UI**, it supports multiple chat sessions, memory recall, and a professional welcome experience.
