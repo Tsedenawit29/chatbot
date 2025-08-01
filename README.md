@@ -111,6 +111,4 @@ docker run -p 8501:8501 --env-file .env gemini-chatbot
   * Used as **context** for Gemini’s next response
 * The result is a more memory-aware chatbot with better continuity
 
----
 
-Let me know if you'd like this tailored to deployment (e.g., Hugging Face Spaces, AWS, etc.) or want me to generate a sample screenshot or badges.
