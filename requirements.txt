@@ -1,0 +1,4 @@
+langchain
+chromadb
+google-generativeai
+tiktoken
