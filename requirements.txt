@@ -1,8 +1,11 @@
-langchain
-chromadb
-google-generativeai
-tiktoken
 streamlit
-python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+chromadb
+tiktoken
 streamlit-extras
+google-generativeai
+python-dotenv
 

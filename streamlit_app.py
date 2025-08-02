@@ -55,10 +55,10 @@ if session_id in st.session_state.sessions:
                 "_What can I help you with today?_"
             )
     else:
-        for role, message, timestamp in st.session_state.sessions[session_id]:
+        for i, (role, message, timestamp) in enumerate(st.session_state.sessions[session_id]):
             with st.chat_message(role, avatar="👤" if role == "user" else "🤖"):
                 with stylable_container(
-                    key=f"{role}_{timestamp}",
+                    key=f"{role}_{timestamp}_{i}",
                     css_styles="opacity: 0.9; padding: 6px 10px; border-radius: 8px;"
                 ):
                     st.markdown(
