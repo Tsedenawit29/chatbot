@@ -106,11 +106,7 @@ docker compose down
 
 ## 🧪 Testing
 
-Test the chatbot configuration:
-
-```bash
-python test_simple.py
-```
+The chatbot is ready to use! Simply run the application and start chatting.
 
 ## 📦 Dependencies
 
