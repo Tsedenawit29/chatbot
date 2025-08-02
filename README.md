@@ -180,3 +180,18 @@ pip install chromadb==0.6.3 --timeout=600
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🙏 Acknowledgments
+
+- Google Gemini AI for the language model
+- Streamlit for the web framework
+- LangChain for the AI framework
+- ChromaDB for vector storage
+
+---
+
+**Made with ❤️ using Google Gemini AI**
